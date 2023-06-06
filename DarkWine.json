@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "Victor Kaoy#7413",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "DarkWine",
         "updater": "https:\/\/raw.githubusercontent.com\/VicKaoy\/VicKaoyAliuThemes\/main\/DarkWine.json"
     },
@@ -23,7 +23,7 @@
         "accent": -10871243,
         "active_channel": -10871243,
         "statusbar": 0,
-        "input_background": -10871243,
+        "input_background": -12707802,
         "blocked_bg": -10871243,
         "mention_highlight": 1264197173
     },
