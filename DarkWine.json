@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "Victor Kaoy#7413",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "DarkWine",
         "updater": "https:\/\/raw.githubusercontent.com\/VicKaoy\/VicKaoyAliuThemes\/main\/DarkWine.json"
     },
@@ -24,7 +24,8 @@
         "active_channel": -10871243,
         "statusbar": 0,
         "input_background": -10871243,
-        "blocked_bg": -10871243
+        "blocked_bg": -10871243,
+        "mention_highlight": 1264197173
     },
     "colors": {
         "link_500": -10871243,
@@ -62,7 +63,8 @@
         "brand_new_900": -10871243,
         "primary_630": -16054771,
         "primary_660": -10871243,
-        "primary_dark_330": -2517585
+        "primary_dark_330": -2517585,
+        "dim_foreground_material_light": -16054771
     },
     "drawable_tints": {
         "empty_pins_dark": -10871243,
