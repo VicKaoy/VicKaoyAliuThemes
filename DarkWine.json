@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Victor Kaoy#7413",
         "version": "1.0.0",
-        "name": "DarkWine"
+        "name": "DarkWine",
+        "updater": "https:\/\/raw.githubusercontent.com\/VicKaoy\/VicKaoyThemes\/main\/DarkWine.json"
     },
     "background": {},
     "fonts": {
